@@ -1,7 +1,7 @@
 <h1 align="center">
   👋 Hi, I'm Enoch Jason J
 </h1>
-<h3 align="center">💡 AI & Full Stack Developer | Ex-Full Stack Developer Intern @AppXcess Technologies, Bangalore | Ex-AIML Intern @Business Optima, US</h3>
+<h3 align="center">🏆 Winner - Dell FutureMinds AI hackathon |💡 AI & Full Stack Developer | Ex-Full Stack Developer Intern @AppXcess Technologies, Bangalore | Ex-AIML Intern @Business Optima, US</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enochjasonj&label=Profile+Views&color=red&style=flat-square" alt="Profile Views"/>
